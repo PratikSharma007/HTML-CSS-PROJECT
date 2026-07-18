@@ -253,7 +253,7 @@ body {
     font-weight: 400;
 }
 
-@media (max-width:530px) {
+@media (max-width:531px) {
     .btn button {
         padding: 7px 19px;
         font-size: 6px;
